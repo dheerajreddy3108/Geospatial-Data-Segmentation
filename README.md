@@ -109,4 +109,5 @@ The model is then used to predict on test images. The results are given in the i
 In notebook I made a comparison of model performance by comparing the model with pre-trained weights and the model without pre-trained weights.
 
 
+![Capture3](https://user-images.githubusercontent.com/55786239/126894375-698ca177-b859-44cc-a556-9cd13da481cf.PNG)
 
